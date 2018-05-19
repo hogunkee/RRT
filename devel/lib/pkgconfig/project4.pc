@@ -1,0 +1,8 @@
+prefix=/home/gun2/catkin_ws/devel
+
+Name: project4
+Description: Description of project4
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gun2/catkin_ws/devel/lib 
+Requires: 

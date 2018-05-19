@@ -1,0 +1,8 @@
+prefix=/home/gun2/catkin_ws/install
+
+Name: preproject2
+Description: Description of preproject2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gun2/catkin_ws/install/lib 
+Requires: 
